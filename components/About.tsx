@@ -13,22 +13,22 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-            Hello! I’m <strong className="text-textGreen">John Aworo Jnr</strong>, a passionate software engineer with a keen interest
+            Hello! I&apos;m <strong className="text-textGreen">John Aworo Jnr</strong>, a passionate software engineer with a keen interest
             in building intuitive and scalable digital products. My journey into web development began
             while customizing Tumblr themes — a curious dive that turned into a lifelong pursuit.
           </p>
           <p>
-            Over the years, I’ve had the opportunity to contribute to various teams, including
+            Over the years, I&apos;ve had the opportunity to contribute to various teams, including
             a creative agency, a fast-paced start-up, a corporate tech environment, and
             a student-led design studio. Each role sharpened my ability to build solutions that
             balance user experience with technical precision.
           </p>
           <p>
             Today, I focus on crafting seamless user interfaces, integrating robust back-end systems,
-            and shipping full-stack applications that deliver results. I'm driven by the challenge of
+            and shipping full-stack applications that deliver results. I&apos;m driven by the challenge of
             transforming complex requirements into clean, maintainable code.
           </p>
-          <p>Here are a few technologies I’ve been working with recently:</p>
+          <p>Here are a few technologies I&apos;ve been working with recently:</p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
             {[
               "JavaScript (ES6+)",
@@ -54,7 +54,6 @@ const About = () => {
               </li>
             ))}
           </ul>
-
         </div>
 
         <div className="w-full lgl:w-1/3 h-80 relative group">
