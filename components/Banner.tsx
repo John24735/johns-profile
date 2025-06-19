@@ -33,7 +33,7 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.8 }}
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
-        I'm a Software Engineer with 4+ years of experience in full-stack
+        I&apos;m a Software Engineer with 4+ years of experience in full-stack
         development. I specialize in crafting scalable, performant, and
         user-centric applications using modern technologies like React, Next.js,
         and Node.js. My focus is delivering clean code, intuitive interfaces,
